@@ -24,11 +24,21 @@ The monthly average price in 2015 ranges between $1.3-$1.5 without much fluctuat
 	height="300" width="400" /><img src="https://user-images.githubusercontent.com/57699414/78825141-af3b9c80-799c-11ea-9753-568cedb71cbe.png"
 	height="300" width="350" />
 
+
 #### Decomposition 
+The average price of avocados starts dropping in July 2015 and then has an upward trend since July 2016. Also, there's very obvious sesonality in this data. Price is the highest in the falls and the lowest in winters.
+
+![decomp](https://user-images.githubusercontent.com/57699414/78829828-46582280-79a4-11ea-81f9-47143747ad5e.png)
 
 
 
 #### ACF AND PACF Plots
+Autocorrelation plot(ACF) shows describes how well the present value of the time series is related with its past values. If the time series is stationary, the plot wil show a quick drop-off in correlation; We can see this data is non- stationary since the values degrade more slowly.
+
+Partial autocorrelation(PACF) finds correlation of the residuals with the next lag value as we remove already found variations before we find the next correlation. The PACF plot showsa spike at lag 1 and 2, indicating that all the higher-order autocorrelations are effectively explained by the lag 1 and 2 autocorrelation.
+
+![acf](https://user-images.githubusercontent.com/57699414/78830088-a3ec6f00-79a4-11ea-81a8-e141ddf7acb0.png)
+
 
 ## Time Series Forecasting With Seasonal ARIMA
 We applied Seasonal ARIMA model on training set because the data has obvious seasonality, and used grid search to find the optimal parameters for our model. 
