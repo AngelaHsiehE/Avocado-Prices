@@ -16,6 +16,7 @@ The majority of the sales are conventional avocados. Conventional avocados are a
 	height="300" width="400" />
 </p>
 
+
 #### Average Price 2015-2018
 The monthly average price in 2015 ranges between $1.3-$1.5 without much fluctuation. In 2016 and 2017, there are seasonal patterns where the average price starts going up in spring/summer and starts going down after its peak around October. We can see the distribution for 2017 has an usual highest peak in September and then it abruptly drops, which coincides with the fact that California avocados had a weak harvest that year and there was a surginf demand for avocados.
 
@@ -31,6 +32,10 @@ The monthly average price in 2015 ranges between $1.3-$1.5 without much fluctuat
 
 ## Time Series Forecasting With Seasonal ARIMA
 We applied Seasonal ARIMA model on training set because the data has obvious seasonality, and used grid search to find the optimal parameters for our model. 
+
+<img src="https://user-images.githubusercontent.com/57699414/78818290-aabdb680-7991-11ea-8cc4-0ef99908ff55.png"
+	height="300" width="400" /
+	
 ![forecast](https://user-images.githubusercontent.com/57699414/78818290-aabdb680-7991-11ea-8cc4-0ef99908ff55.png)
 
 Our primary concern is to ensure that the residuals of our model are uncorrelated and normally distributed with zero-mean. If the seasonal ARIMA model does not satisfy these properties, it is a good indication that it can be further improved.
