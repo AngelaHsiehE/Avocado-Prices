@@ -12,6 +12,18 @@ However, avocado prices can vary quite a bit throughout the year. During certain
 We applied Seasonal ARIMA model on training set because the data has obvious seasonality, and used grid search to find the optimal parameters for our model. 
 ![forecast](https://user-images.githubusercontent.com/57699414/78818290-aabdb680-7991-11ea-8cc4-0ef99908ff55.png)
 
+Our primary concern is to ensure that the residuals of our model are uncorrelated and normally distributed with zero-mean. If the seasonal ARIMA model does not satisfy these properties, it is a good indication that it can be further improved.
+
+#### Model Diagnistics
+Based on the model diagnostics, we can see the resisuals of the model are normally distributed and have correlations with each other.
+
+![evaluate](https://user-images.githubusercontent.com/57699414/78818827-80b8c400-7992-11ea-853e-4c02d17b650c.png)
+
+- The stardard resisual plot (top left) shows that the residuals over time doesn't have any obvious seasonality.
+- In the top right plot, the KDE line follows closely to the N(0.1) line which is the standard notation for a normal distribution with mean 0 and standard deviation of 1.
+- The qq plot (bottom left) shows that the ordered distribution of residuals (blue dots) follows the linear trend of the samples taken from a standard normal distribution.
+- In the correlogram plot (bottom right) shows that time series of residuals have low correlations with its previous lags.
+
 ## Actionable Recommendations
 #### Summary Of Findings
 - Avocados are the cheapest in the winter and the most expensive in the fall.
