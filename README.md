@@ -9,7 +9,7 @@ However, avocado prices can vary quite a bit throughout the year. During certain
 #### Organic Avocados V.S Conventional Avocados
 The majority of the sales are conventional avocados. Conventional avocados are also cheaper by about 50 cents each than organic ones.
 
-![image](https://user-images.githubusercontent.com/57699414/78824462-9d0d2e80-799b-11ea-8a7e-a51810740708.png width="200"/)![image](https://user-images.githubusercontent.com/57699414/78750134-da86a300-792c-11ea-9f2b-ac8ecdef1b17.png)
+![image](https://user-images.githubusercontent.com/57699414/78824462-9d0d2e80-799b-11ea-8a7e-a51810740708.png)![image](https://user-images.githubusercontent.com/57699414/78750134-da86a300-792c-11ea-9f2b-ac8ecdef1b17.png)
 
 
 #### Average Price 2015-2018
