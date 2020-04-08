@@ -9,9 +9,12 @@ However, avocado prices can vary quite a bit throughout the year. During certain
 #### Organic Avocados V.S Conventional Avocados
 The majority of the sales are conventional avocados. Conventional avocados are also cheaper by about 50 cents each than organic ones.
 
-<img src="https://user-images.githubusercontent.com/57699414/78824462-9d0d2e80-799b-11ea-8a7e-a51810740708.png"
-	height="300" width="350" /><img src="https://user-images.githubusercontent.com/57699414/78750134-da86a300-792c-11ea-9f2b-ac8ecdef1b17.png"
+<p float="left">
+   <img src="https://user-images.githubusercontent.com/57699414/78824462-9d0d2e80-799b-11ea-8a7e-a51810740708.png"
+	height="300" width="350" />
+   <img src="https://user-images.githubusercontent.com/57699414/78750134-da86a300-792c-11ea-9f2b-ac8ecdef1b17.png"
 	height="300" width="450" />
+</p>
 
 #### Average Price 2015-2018
 The monthly average price in 2015 ranges between $1.3-$1.5 without much fluctuation. In 2016 and 2017, there are seasonal patterns where the average price starts going up in spring/summer and starts going down after its peak around October. We can see the distribution for 2017 has an usual highest peak in September and then it abruptly drops, which coincides with the fact that California avocados had a weak harvest that year and there was a surginf demand for avocados.
