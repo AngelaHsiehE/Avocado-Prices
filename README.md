@@ -20,7 +20,7 @@ The majority of the sales are conventional avocados. Conventional avocados are a
 The monthly average price in 2015 ranges between $1.3-$1.5 without much fluctuation. In 2016 and 2017, there are seasonal patterns where the average price starts going up in spring/summer and starts going down after its peak around October. We can see the distribution for 2017 has an usual highest peak in September and then it abruptly drops, which coincides with the fact that California avocados had a weak harvest that year and there was a surginf demand for avocados.
 
 <img src="https://user-images.githubusercontent.com/57699414/78824786-29b7ec80-799c-11ea-8808-28c6a214f771.png"
-	height="300" width="350" /><img src="https://user-images.githubusercontent.com/57699414/78825141-af3b9c80-799c-11ea-9753-568cedb71cbe.png"
+	height="300" width="400" /><img src="https://user-images.githubusercontent.com/57699414/78825141-af3b9c80-799c-11ea-9753-568cedb71cbe.png"
 	height="300" width="350" />
 
 #### Decomposition 
