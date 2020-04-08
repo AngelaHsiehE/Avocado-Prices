@@ -10,6 +10,7 @@ However, avocado prices can vary quite a bit throughout the year. During certain
 
 ## Time Series Forecasting With Seasonal ARIMA
 We applied Seasonal ARIMA model on training set because the data has obvious seasonality, and used grid search to find the optimal parameters for our model. 
+![forecast](https://user-images.githubusercontent.com/57699414/78818290-aabdb680-7991-11ea-8cc4-0ef99908ff55.png)
 
 ## Actionable Recommendations
 #### Summary Of Findings
