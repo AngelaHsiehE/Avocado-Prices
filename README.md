@@ -11,9 +11,9 @@ The majority of the sales are conventional avocados. Conventional avocados are a
 
 <p float="left">
    <img src="https://user-images.githubusercontent.com/57699414/78824462-9d0d2e80-799b-11ea-8a7e-a51810740708.png"
-	height="300" width="300" />
+	height="300" width="320" />
    <img src="https://user-images.githubusercontent.com/57699414/78750134-da86a300-792c-11ea-9f2b-ac8ecdef1b17.png"
-	height="300" width="300" />
+	height="300" width="350" />
 </p>
 
 #### Average Price 2015-2018
