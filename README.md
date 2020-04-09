@@ -1,6 +1,6 @@
 # Predict Avocado-Prices
 ## Introduction
-Avocados are a staple in many people's diet. Whether it's warm avocado toast in winter or guacamole drizzled with olive oil in summer, avocado has been our our all time favorite. For the past decades, our appetite for avocados have only risen. In 2000, Americans were consuming a little more than 1 billion avocados, and that number has since exploded, reaching nearly 5 billion.
+Avocados are a staple in many people's diet. Whether it's warm avocado toast in winter or guacamole drizzled with olive oil in summer, avocado has been our our all time favorite. For the past decades, our appetite for avocados has only risen. In 2000, Americans were consuming a little more than 1 billion avocados, and that number has since exploded, reaching nearly 5 billion.
 
 However, avocado prices can vary quite a bit throughout the year. During certain time of the year, they can be quite expensive for foodies. In this project, we'll explore the underlying trends and patterns of avocado prices, and then develop the optimal SARIMA model to forecast the average prices over the next two years.
 
